@@ -7,6 +7,8 @@ javac GenerateFileTxt.java
 
 java GenerateFileTxt Words_number
 
+example: java GeneratedFileTxt 20
+
 ## 2- Run MyRSA on that file
 javac MyRSA.java 
 
