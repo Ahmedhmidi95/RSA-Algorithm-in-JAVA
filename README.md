@@ -1,5 +1,5 @@
 # RSA-Algorithm-in-JAVA
-Test RSA algorithom on text files generated automatically with JAVA
+Test RSA algorithm on text files generated automatically with JAVA
 
 # Steps:
 ## 1- Generate a text file
